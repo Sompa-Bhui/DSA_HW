@@ -1,4 +1,4 @@
-## 🔗 Linked List – Overview
+## 🔗 Linked List
 
 ### 📘 What is a Linked List?
 
